@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalendarActivity</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="write_note">Write Note</string>
+    <string name="no_note">Nothing</string>
+    <string name="save">Save</string>
+</resources>
